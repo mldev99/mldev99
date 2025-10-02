@@ -1,5 +1,5 @@
 # 💫 Hi 👋, I'm Suraj Maurya
-**A passionate GENAI Engineer || ML Engineer **
+A passionate GENAI Engineer || ML Engineer
 
 Email Me 👉 ✉️ **surajmaurya.mldev@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
