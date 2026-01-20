@@ -1,9 +1,9 @@
 # 💫 Hi 👋, I'm Suraj Maurya
-A passionate GENAI Engineer || ML Engineer
+A passionate AI Engineer || ML Engineer
 
 Email Me 👉 ✉️ **surajmaurya.mldev@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
-- 🔭 **I’m currently working on:** AI-TEXT-SUMMARIZER
+- 🔭 **I’m currently working on:** AI-Meme-&-Poster-Genertor
 - 🌱 **I’m currently learning:** Python, Hugging Face, PyTorch, Gradio, FastAPI + Docker (API), Hugging Face Hub / Spaces
 - 👯 **I’m looking to collaborate on:** Multi-Agent System
 - 🤔 **I’m looking for help with:** Meme / Content Generator
